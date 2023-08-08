@@ -89,4 +89,4 @@ docker-compose down
 ```
 
 # two-tier-architecture-flask-application-with-database
-# two-tier-flas-app-with-database
+# two-tier-flask-app-with-database
